@@ -1,0 +1,47 @@
+body
+{
+    background-color: darkslategray;
+    font-family: consolas;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    margin:50px;
+    margin-bottom: 10px;
+    
+}
+h4 {
+    color: white;
+    text-align: center;
+    margin: 30px;
+    
+}
+
+#bulb {
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 50px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+button {
+    padding: 10px 20px;
+    background-color: blue
+    ;
+    border-radius: 10px;
+    border-color: blue;
+    border:none;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    color: white;
+    
+}
